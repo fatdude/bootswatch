@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Bootswatch::VERSION
   s.authors     = ["fatdude"]
   s.email       = ["mark@fatdude.net"]
-  s.homepage    = "www.bootswatch.com"
+  s.homepage    = "http://www.bootswatch.com"
   s.summary     = "Somewhere to keep the sass versions of bootswatch"
   s.description = "Downloaded directly from the bootswatch site"
   s.license     = "MIT"
