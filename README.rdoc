@@ -1,3 +1,5 @@
 = Bootswatch
 
-This project rocks and uses MIT-LICENSE.
+Just a simple gem to keep all the bootswatch themes in one place.
+
+See www.bootswatch.com
