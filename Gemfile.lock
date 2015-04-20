@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bootswatch (3.3.4)
+    bootswatch (3.3.4.1)
       rails (~> 4.2.0)
 
 GEM
@@ -45,7 +45,7 @@ GEM
     arel (6.0.0)
     builder (3.2.2)
     erubis (2.7.0)
-    globalid (0.3.3)
+    globalid (0.3.5)
       activesupport (>= 4.1.0)
     hike (1.2.3)
     i18n (0.7.0)
@@ -56,7 +56,7 @@ GEM
       mime-types (>= 1.16, < 3)
     mime-types (2.4.3)
     mini_portile (0.6.2)
-    minitest (5.5.1)
+    minitest (5.6.0)
     multi_json (1.11.0)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
