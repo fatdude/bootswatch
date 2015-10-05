@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bootswatch (3.3.5)
+    bootswatch (3.3.5.1)
       rails (~> 4.2.0)
 
 GEM

@@ -10,7 +10,7 @@ namespace :bootswatch do
 
       puts path
 
-      `wget http://www.bootswatch.com/#{theme}/_variables.scss http://www.bootswatch.com/#{theme}/_bootswatch.scss`
+      `wget https://www.bootswatch.com/#{theme}/_variables.scss https://www.bootswatch.com/#{theme}/_bootswatch.scss`
       FileUtils.mv '_variables.scss', "#{path}/_variables.scss"
       FileUtils.mv '_bootswatch.scss', "#{path}/_bootswatch.scss"
     end
