@@ -4,7 +4,7 @@ namespace :bootswatch do
 
   desc 'Import bootswatch themes'
   task :import do |t, args|
-    %w{ yeti paper cosmo cyborg cerulean darkly flatly journal lumen readable sandstone simplex slate spacelab superhero united }.each do |theme|
+    %w{ yeti paper cosmo cyborg cerulean darkly flatly journal lumen readable sandstone simplex slate spacelab superhero united solar }.each do |theme|
       path = File.expand_path("app/assets/stylesheets/bootswatch/#{theme}")
       FileUtils.mkdir_p(path)
 
